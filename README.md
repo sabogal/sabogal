@@ -16,12 +16,13 @@
 
 <br>
 
-- A passionate Backend-end developer
-- Currently pursuing a degree in Systems Engineering
-- Graduate of a technical program in software development
-- Passionate about system architecture, APIs, and clean scalable code
-- I constantly explore new technologies, tools, and dev practices
-- Experienced with Django, Flask, .NET, React, and more
+- 🔧 A passionate Back-End developer  
+- 🎓 Currently pursuing a degree in Systems Engineering  
+- 📜 Graduate of a technical program in software development  
+- 🧠 Passionate about system architecture, APIs, and clean scalable code  
+- 🚀 I constantly explore new technologies, tools, and dev practices  
+- 🛠️ Experienced with Django, Flask, .NET, React, and more  
+
 
 <br><br>
 
