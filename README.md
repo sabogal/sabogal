@@ -10,7 +10,9 @@
 
 
 	
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture>
+  <img align="right" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="250px" alt="backend dev gif"/>
+</picture>
 
 <br>
 
